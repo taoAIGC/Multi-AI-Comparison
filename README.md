@@ -43,6 +43,10 @@
 
 #建议反馈
 
-微信：aipmgpt
+wechat微信：aipmgpt
 
 邮箱：Multi-AI-Comparison@outlook.com
+
+reddit：https://www.reddit.com/r/MultiAIComparison/
+
+github：https://github.com/taoAIGC/Multi-AI-Comparison
