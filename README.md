@@ -29,13 +29,18 @@ Completely free.
 🔐 Security and Privacy
 
 "Multi-AI" does not monitor your browsing history or collect any user information.
+
 "Multi-AI" operates entirely within your browser! This means all user settings are always retrieved and stored locally in your browser.
 
 
 🙋 For any inquiries, please contact:
+
 wechat（微信）: aipmgpt
+
 email:  multi-ai@outlook.com
+
 reddit：https://www.reddit.com/r/MultiAIComparison/
+
 GitHub：https://github.com/taoAIGC/Multi-AI
 
 
@@ -67,12 +72,16 @@ GitHub：https://github.com/taoAIGC/Multi-AI
 
 🔐安全和隐私
 「Multi-AI 」并不监控您的浏览历史或收集任何用户信息
+
 「Multi-AI 」完全在您的浏览器中运行! 这意味着，所有的用户设置存储在浏览器中
 
 
 💌任何问题请联系：
 
 wechat（微信）: aipmgpt
+
 email:  multi-ai@outlook.com
+
 reddit：https://www.reddit.com/r/MultiAIComparison/
+
 GitHub：https://github.com/taoAIGC/Multi-AI
