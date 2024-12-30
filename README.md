@@ -1,7 +1,7 @@
 # Multi-AI：one click to open multi AI sites
 
 
-[Engglish](https://github.com/taoAIGC/Multi-AI/blob/master/README.md#english )   ｜   [中文](https://github.com/taoAIGC/Multi-AI/blob/master/README.md#%E4%B8%AD%E6%96%87) 
+<p align="center"> [Engglish](https://github.com/taoAIGC/Multi-AI/blob/master/README.md#english )   ｜   [中文](https://github.com/taoAIGC/Multi-AI/blob/master/README.md#%E4%B8%AD%E6%96%87)  </p>
 
 
 
