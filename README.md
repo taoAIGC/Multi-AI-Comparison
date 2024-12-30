@@ -2,17 +2,16 @@
 
 
 ## English 
----
 
-Introduction
+### Introduction
 
 Input a  query with one click,  it  instantly opens multiple AI sites, boosting your productivity.
 
-Description
+### Description
 
 🏆 With "Multi-AI," AI users save over 3 hours per week on average!
 
-Features
+### Features
 
 🤖 Open multiple AI sites with one click
 
@@ -33,7 +32,8 @@ Completely free.
 "Multi-AI" operates entirely within your browser! This means all user settings are always retrieved and stored locally in your browser.
 
 
-🙋 For any inquiries, please contact:
+### For any inquiries 
+🙋 please contact:
 
 wechat（微信）: aipmgpt
 
@@ -45,18 +45,17 @@ GitHub：https://github.com/taoAIGC/Multi-AI
 
 
 ## 中文 
----
 
 
-简介
+### 简介
 
 输入一次 query，一键打开多个AI 站点，提高你的生产力   
 
-描述
+### 描述
 
 🏆 使用「Multi-AI 」的 AI用户平均每周可节省3个多小时! 
 
-特点
+### 特点
 
 🤖 一键打开多个 AI 站点
 
@@ -76,7 +75,8 @@ GitHub：https://github.com/taoAIGC/Multi-AI
 「Multi-AI 」完全在您的浏览器中运行! 这意味着，所有的用户设置存储在浏览器中
 
 
-💌任何问题请联系：
+### 任何问题和建议
+💌请联系：
 
 wechat（微信）: aipmgpt
 
