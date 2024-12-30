@@ -70,6 +70,7 @@ GitHub：https://github.com/taoAIGC/Multi-AI
 完全免费
 
 🔐安全和隐私
+
 「Multi-AI 」并不监控您的浏览历史或收集任何用户信息
 
 「Multi-AI 」完全在您的浏览器中运行! 这意味着，所有的用户设置存储在浏览器中
