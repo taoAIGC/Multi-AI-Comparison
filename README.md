@@ -11,82 +11,82 @@ The original name of this extension was "Multi-AI," and it has now been renamed 
 
 ## English 
 
-### Introduction
+Introduction:
 
-Input a  query with one click,  it  instantly opens multiple AI sites, boosting your productivity.
+"AI shortcuts" enhances the efficiency of using AI websites.
 
-### Description
+1. One-click send messages and open your frequently used AI sites (ChatGPT, Claude, Perplexity, Kimi, Doubao, POE, Gemini, and more being added).
+2. One-click compare generation results from multiple sites.
+3. No registration, no need to purchase membership, no usage limits.
 
-🏆 With "AI Shortcuts," AI users save over 3 hours per week on average!
+How to Use:
 
-### Features
+😄download the extention
 
-🤖 Open multiple AI sites with one click
+chrome：https://chromewebstore.google.com/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl 
 
-Enter a query, and multiple AI sites will open simultaneously, loading results together to save time.
+edge：coming soon
 
-🔨 Customize the sites to open
+🤖 Click the toolbar button / use the shortcut key
+Click the extension button or press the shortcut key (⌘+M on Mac, Ctrl+M on Windows) to activate the window. After entering a keyword, 1) you can quickly access your frequently used AI sites for fast queries. 2) You can open multiple AI sites at once, loading results simultaneously to save time and compare them.
 
-Supports various AI platforms and search engines.
+🏂 Select webpage content
+Highlight text with your mouse, and an operation icon will appear next to the selected text. Click the corresponding icon to quickly query the selected text.
 
-💰 Price
+🎉 Tab Mode
+Click to enter tab mode. For users who frequently compare results across multiple AI sites, each new tab opened will activate the multi-AI comparison feature.
 
-Completely free.
+🔨 Configure your most frequently used AI sites
+Single-site configuration: Use the dropdown menu to select your most commonly used AI site.
+Multi-site configuration: Enter the AI comparison configuration to select multiple sites.
 
-🔐 Security and Privacy
+Any questions or suggestions?
+💌 Please contact:
 
-"AI Shortcuts" does not monitor your browsing history or collect any user information.
-
-"AI Shortcuts" operates entirely within your browser! This means all user settings are always retrieved and stored locally in your browser.
-
-
-### For any inquiries 
-🙋 please contact:
-
-wechat（微信）: aipmgpt
-
-email:  AIShortcuts@outlook.com
-
-GitHub：https://github.com/taoAIGC/AI-Shortcuts
+WeChat: aipmgpt
+Email: AIShortcuts@outlook.com
 
 
 ## 中文 
 
 
-### 简介
+简介
 
-输入一次 query，一键打开多个AI 站点，提高你的生产力   
+「AI 任意门」提高你使用AI网站的效率
 
-### 描述
+1、一键发送消息，并打开你常用的 AI站点（chatgpt、 claude、 perplexity、kimi、豆包、 POE、gemini，持续增加中）
+2、一键对比多站点的生成结果
+3、无需注册，无需注册购买会员，没有使用次数限制
 
-🏆 使用「AI Shortcuts 」的 AI用户平均每周可节省3个多小时! 
+使用方式
 
-### 特点
+😄下载扩展
 
-🤖 一键打开多个 AI 站点
+chrome：https://chromewebstore.google.com/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl 
 
-输入关键词后，同时打开多个 AI 站点，同时加载结果，节省时间
-
-🔨可以自己配置要打开的站点
-
-支持多个 AI 站点和搜索引擎
-
-💰价格
-
-完全免费
-
-🔐安全和隐私
-
-「AI Shortcuts 」并不监控您的浏览历史或收集任何用户信息
-
-「AI Shortcuts 」完全在您的浏览器中运行! 这意味着，所有的用户设置存储在浏览器中
+edge：稍后支持
 
 
-### 任何问题和建议
+🤖 点击工具栏按钮 / 快捷键
+点击扩展按钮或者输入快捷键（⌘+M in Mac, Ctrl+M in Windows），激活窗口，输入关键词后， 1） 可以一键进入常用 AI 站点，实现快速查询 2） 同时打开多个 AI 站点，同时加载结果，节省时间，实现结果的对比。
+
+🏂 选择网页内容
+鼠标滑动选择文本，文本旁边会出现相应的操作图标。点击对应的图标，实现对选中的文本的快速查询。
+
+🎉标签页模式
+
+点击进入标签页模式。对于高频使用多AI站点对比的用户，每次新建标签页，就会打开多AI 站点对比功能。
+
+🔨 配置最常用的AI站点
+
+单站点配置：下拉菜单，即可选择最常用的AI 站点
+
+多站点配置：进入AI 对比配置，即可选择
+
+
+任何问题和建议
 💌请联系：
 
 wechat（微信）: aipmgpt
 
-email:  AIShortcuts@outlook.com
-
-GitHub：https://github.com/taoAIGC/AI-Shortcuts
+email: AIShortcuts@outlook.com
