@@ -21,7 +21,7 @@ The original name of this extension was "Multi-AI," and it has now been renamed 
 
 ### How to Use:
 
-😄download the extention
+😄 Download the extention
 
 chrome：https://chromewebstore.google.com/detail/multi-ai/dkhpgbbhlnmjbkihoeniojpkggkabbbl 
 
