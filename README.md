@@ -1,7 +1,12 @@
-# Multi-AI：one click to open multi AI sites
+
+The original name of this extension was "Multi-AI," and it has now been renamed to "AI Shortcuts."
 
 
-[Engglish](https://github.com/taoAIGC/Multi-AI/blob/master/README.md#english )   ｜   [中文](https://github.com/taoAIGC/Multi-AI/blob/master/README.md#%E4%B8%AD%E6%96%87) 
+
+# AI Shortcuts：one click to open multi AI sites
+
+
+[Engglish](https://github.com/taoAIGC/AI-Shortcuts/blob/master/README.md#english )   ｜   [中文](https://github.com/taoAIGC/AI-Shortcuts/blob/master/README.md#%E4%B8%AD%E6%96%87) 
 
 
 ## English 
@@ -12,7 +17,7 @@ Input a  query with one click,  it  instantly opens multiple AI sites, boosting 
 
 ### Description
 
-🏆 With "Multi-AI," AI users save over 3 hours per week on average!
+🏆 With "AI Shortcuts," AI users save over 3 hours per week on average!
 
 ### Features
 
@@ -30,9 +35,9 @@ Completely free.
 
 🔐 Security and Privacy
 
-"Multi-AI" does not monitor your browsing history or collect any user information.
+"AI Shortcuts" does not monitor your browsing history or collect any user information.
 
-"Multi-AI" operates entirely within your browser! This means all user settings are always retrieved and stored locally in your browser.
+"AI Shortcuts" operates entirely within your browser! This means all user settings are always retrieved and stored locally in your browser.
 
 
 ### For any inquiries 
@@ -40,11 +45,9 @@ Completely free.
 
 wechat（微信）: aipmgpt
 
-email:  multi-ai@outlook.com
+email:  AIShortcuts@outlook.com
 
-reddit：https://www.reddit.com/r/MultiAIComparison/
-
-GitHub：https://github.com/taoAIGC/Multi-AI
+GitHub：https://github.com/taoAIGC/AI-Shortcuts
 
 
 ## 中文 
@@ -56,7 +59,7 @@ GitHub：https://github.com/taoAIGC/Multi-AI
 
 ### 描述
 
-🏆 使用「Multi-AI 」的 AI用户平均每周可节省3个多小时! 
+🏆 使用「AI Shortcuts 」的 AI用户平均每周可节省3个多小时! 
 
 ### 特点
 
@@ -74,9 +77,9 @@ GitHub：https://github.com/taoAIGC/Multi-AI
 
 🔐安全和隐私
 
-「Multi-AI 」并不监控您的浏览历史或收集任何用户信息
+「AI Shortcuts 」并不监控您的浏览历史或收集任何用户信息
 
-「Multi-AI 」完全在您的浏览器中运行! 这意味着，所有的用户设置存储在浏览器中
+「AI Shortcuts 」完全在您的浏览器中运行! 这意味着，所有的用户设置存储在浏览器中
 
 
 ### 任何问题和建议
@@ -84,8 +87,6 @@ GitHub：https://github.com/taoAIGC/Multi-AI
 
 wechat（微信）: aipmgpt
 
-email:  multi-ai@outlook.com
+email:  AIShortcuts@outlook.com
 
-reddit：https://www.reddit.com/r/MultiAIComparison/
-
-GitHub：https://github.com/taoAIGC/Multi-AI
+GitHub：https://github.com/taoAIGC/AI-Shortcuts
