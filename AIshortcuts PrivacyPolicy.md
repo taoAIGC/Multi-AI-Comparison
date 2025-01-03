@@ -22,7 +22,7 @@ Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be reflected in the "Last Updated" date at the top of this policy.
 
 Contact
-If you have any questions about this Privacy Policy or the AI Shortcuts extension, please contact us AI Shortcuts@outlook.com.
+If you have any questions about this Privacy Policy or the AI Shortcuts extension, please contact us AIShortcuts@outlook.com.
 
 User Rights
 Since we don't collect any personal data, there is no user data to access, modify, or delete. The extension respects your privacy by design.
