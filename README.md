@@ -28,22 +28,29 @@ chrome：https://chromewebstore.google.com/detail/multi-ai/dkhpgbbhlnmjbkihoenio
 edge：coming soon
 
 🤖 Click the toolbar button / use the shortcut key
+
 Click the extension button or press the shortcut key (⌘+M on Mac, Ctrl+M on Windows) to activate the window. After entering a keyword, 1) you can quickly access your frequently used AI sites for fast queries. 2) You can open multiple AI sites at once, loading results simultaneously to save time and compare them.
 
 🏂 Select webpage content
+
 Highlight text with your mouse, and an operation icon will appear next to the selected text. Click the corresponding icon to quickly query the selected text.
 
 🎉 Tab Mode
+
 Click to enter tab mode. For users who frequently compare results across multiple AI sites, each new tab opened will activate the multi-AI comparison feature.
 
 🔨 Configure your most frequently used AI sites
+
 Single-site configuration: Use the dropdown menu to select your most commonly used AI site.
+
 Multi-site configuration: Enter the AI comparison configuration to select multiple sites.
 
 Any questions or suggestions?
+
 💌 Please contact:
 
 WeChat: aipmgpt
+
 Email: AIShortcuts@outlook.com
 
 
@@ -68,9 +75,11 @@ edge：稍后支持
 
 
 🤖 点击工具栏按钮 / 快捷键
+
 点击扩展按钮或者输入快捷键（⌘+M in Mac, Ctrl+M in Windows），激活窗口，输入关键词后， 1） 可以一键进入常用 AI 站点，实现快速查询 2） 同时打开多个 AI 站点，同时加载结果，节省时间，实现结果的对比。
 
 🏂 选择网页内容
+
 鼠标滑动选择文本，文本旁边会出现相应的操作图标。点击对应的图标，实现对选中的文本的快速查询。
 
 🎉标签页模式
