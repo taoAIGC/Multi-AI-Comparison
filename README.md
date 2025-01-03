@@ -11,7 +11,7 @@ The original name of this extension was "Multi-AI," and it has now been renamed 
 
 ## English 
 
-Introduction:
+### Introduction:
 
 "AI shortcuts" enhances the efficiency of using AI websites.
 
@@ -19,7 +19,7 @@ Introduction:
 2. One-click compare generation results from multiple sites.
 3. No registration, no need to purchase membership, no usage limits.
 
-How to Use:
+### How to Use:
 
 😄download the extention
 
@@ -45,7 +45,7 @@ Single-site configuration: Use the dropdown menu to select your most commonly us
 
 Multi-site configuration: Enter the AI comparison configuration to select multiple sites.
 
-Any questions or suggestions?
+### Any questions or suggestions?
 
 💌 Please contact:
 
@@ -57,15 +57,15 @@ Email: AIShortcuts@outlook.com
 ## 中文 
 
 
-简介
+### 简介
 
 「AI 任意门」提高你使用AI网站的效率
 
-1、一键发送消息，并打开你常用的 AI站点（chatgpt、 claude、 perplexity、kimi、豆包、 POE、gemini，持续增加中）
-2、一键对比多站点的生成结果
-3、无需注册，无需注册购买会员，没有使用次数限制
+1. 一键发送消息，并打开你常用的 AI站点（chatgpt、 claude、 perplexity、kimi、豆包、 POE、gemini，持续增加中）
+2. 一键对比多站点的生成结果
+3. 无需注册，无需注册购买会员，没有使用次数限制
 
-使用方式
+### 使用方式
 
 😄下载扩展
 
@@ -93,7 +93,8 @@ edge：稍后支持
 多站点配置：进入AI 对比配置，即可选择
 
 
-任何问题和建议
+### 任何问题和建议
+
 💌请联系：
 
 wechat（微信）: aipmgpt
