@@ -1,8 +1,3 @@
-
-The original name of this extension was "Multi-AI," and it has now been renamed to "AI Shortcuts."
-
-
-
 # AI Shortcuts：one click to open multi AI sites
 
 
