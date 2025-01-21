@@ -15,9 +15,10 @@ The original name of this extension was "Multi-AI," and it has now been renamed 
 
 "AI shortcuts" enhances the efficiency of using AI websites.
 
-1. One-click send messages and open your frequently used AI sites (ChatGPT, Claude, Perplexity, Kimi, Doubao, POE, Gemini, and more being added).
-2. One-click compare generation results from multiple sites.
-3. No registration, no need to purchase membership, no usage limits.
+1. Embed multiple AI websites in one tab, enter a keyword once, and display the query results from multiple AI websites simultaneously.
+2. One-click send messages and open your frequently used AI sites (ChatGPT, Claude, Perplexity, Kimi, Doubao, POE, Gemini, and more being added).
+3. One-click compare generation results from multiple sites.
+4. No registration, no need to purchase membership, no usage limits.
 
 ### How to Use:
 
@@ -76,7 +77,7 @@ Email: AIShortcuts@outlook.com
 
 「AI 任意门」提高你使用AI网站的效率
 
-1.一个标签页内，输入一次关键词，打开多个 AI 网站
+1. 一个标签页内，嵌入多个 AI 网站，输入一次关键词，同时展示多个AI网站的查询结果
 2. 一键发送消息，并打开你常用的 AI站点（chatgpt、 claude、 perplexity、kimi、豆包、 POE、gemini，持续增加中）
 3. 一键对比多站点的生成结果
 4. 无需注册，无需注册购买会员，没有使用次数限制
