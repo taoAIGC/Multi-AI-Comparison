@@ -43,6 +43,9 @@ how to install the newest version extension：
 
 edge：coming soon
 
+🎉 Pin the extension to the toolbar and click the extension icon.
+Access the Multi-AI collection page, enter a keyword once, and view results from multiple AIs on a single page.
+
 🤖 Click the toolbar button / use the shortcut key
 
 Click the extension button or press the shortcut key (⌘+M on Mac, Ctrl+M on Windows) to activate the window. After entering a keyword, 1) you can quickly access your frequently used AI sites for fast queries. 2) You can open multiple AI sites at once, loading results simultaneously to save time and compare them.
@@ -106,6 +109,10 @@ chrome：https://chromewebstore.google.com/detail/multi-ai/dkhpgbbhlnmjbkihoenio
 
 edge：稍后支持
 
+
+
+🎉将插件固定在工具栏，点击插件图标
+进入多 AI 集合页面，输入一次关键词，在一个页面内查看多个AI 的结果
 
 🤖 点击工具栏按钮 / 快捷键
 
